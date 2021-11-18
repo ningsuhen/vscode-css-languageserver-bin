@@ -1,4 +1,4 @@
 [submodule "vscode-css-languageserver"]
 	path = vscode-css-languageserver
-	url = https://github.com/vscode-langservers/vscode-css-languageserver.git
+	url = https://github.com/ningsuhen/vscode-css-languageserver.git
 	ignore = dirty
